@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=lifeSpan_
+comment0.target=drone(int)
+comment1.params=lifeSpan_\ dna_\ mutR_
+comment1.target=drone(int,\ Vector[],\ double)
+comment2.params=c
+comment2.target=void\ update(int)
+comment3.params=c
+comment3.target=void\ edges(int)
+comment4.params=
+comment4.target=void\ show()
+comment5.params=
+comment5.target=void\ getFitness()
+comment6.params=k\ j\ d
+comment6.target=void\ birth(int,\ int,\ drone[])
+comment7.params=d\ index
+comment7.target=void\ mutate(drone[],\ int)
+comment8.params=
+comment8.target=void\ respawn()
+comment9.params=
+comment9.target=double\ getMax()
+numComments=10
