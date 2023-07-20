@@ -1,6 +1,6 @@
 Updated 06/08/23
 
-Alright, here's the deal.
+# Alright, here's the deal.
 
 This is a project I did in free time after finishing my work in my grade 11 Computer Science class when I was 16.
 
